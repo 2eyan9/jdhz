@@ -8,7 +8,7 @@
 const $ = new Env("互助码");
 const shareCodes = [
   {
-    zd: $.getdata("zd_shareCode1") || "iu7cccwkdurc6eqye3zt6r7f745ac3f4ijdgqji"
+    zd: $.getdata("zd_shareCode1") || "iu7cccwkdurc6eqye3zt6r7f745ac3f4ijdgqji",
     nc: $.getdata("nc_shareCode1") || "a71cfa7dc3264361bd766c62ba60d747",
     mc: $.getdata("mc_shareCode1") || "MTE1NDQ5OTIwMDAwMDAwMzQ2NTY2NTE=",
     ddgc: $.getdata("dd_shareCode1") || "P04z54XCjVWnYaS5n9dQTGmij8SzDoQgw",
